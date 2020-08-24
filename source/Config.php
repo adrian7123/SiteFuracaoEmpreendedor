@@ -5,7 +5,10 @@ define("CSS",  "public/css/");
 define("JS",  "public/js/");
 define("IMG", "public/images/"); 
 define("FONTS",  "public/fonts/");
-define("ICONS",  "public/icons/");
+
+define("ICONS",  ROOT . "/public/icons/main");
+define("ERRICONS", ROOT . "/public/icons/error");
+
 define("ERROR",  "public/error/");
 
 

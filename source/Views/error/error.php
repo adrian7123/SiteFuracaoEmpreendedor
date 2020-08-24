@@ -20,7 +20,7 @@
 	<!-- Custom stlylesheet -->
 	<link type="text/css" rel="stylesheet" href="<?= url(ERROR . "css/style.css") ?>" />
 
-
+	<?= $v->insert("error/extension/favicon") ?>
 </head>
 
 <body>
